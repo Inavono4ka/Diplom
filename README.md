@@ -6,7 +6,7 @@
 
 1. [Задача](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Zadacha.md)
 
-2. [План тестирования](https://github.com/Inavono4ka/Diplom/blob/master/Plan.md)
+2. [План тестирования](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Plan.md)
 
 3. Отчет по итогам тестирования
 
