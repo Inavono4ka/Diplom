@@ -4,7 +4,7 @@
 
 ## Документация
 
-1. Задача
+1. [Задача](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Zadacha.md)
 
 2. [План тестирования](https://github.com/Inavono4ka/Diplom/blob/master/Plan.md)
 
