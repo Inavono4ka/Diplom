@@ -8,7 +8,7 @@
 
 2. [План тестирования](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Plan.md)
 
-3. Отчет по итогам тестирования
+3. [Отчет по итогам тестирования](https://github.com/Inavono4ka/Diplom/new/master/documentation)
 
 4. Отчет по итогам автоматизации
 
