@@ -10,7 +10,7 @@
 
 3. [Отчет по итогам тестирования](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Report.md)
 
-4. [Отчет по итогам автоматизации](https://github.com/Inavono4ka/Diplom/new/master/documentation/Sunmery.md)
+4. [Отчет по итогам автоматизации](https://github.com/Inavono4ka/Diplom/blob/master/documentation/Summary.md)
 
 ## Процедура запуска авто-тестов
 
