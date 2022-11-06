@@ -1,7 +1,6 @@
-package ru.netology.test;
+package ru.netology.web.test;
 
 
-import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import lombok.val;
@@ -9,10 +8,10 @@ import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.data.DataHelper;
-import ru.netology.data.SqlHelper;
-import ru.netology.page.DashboardPage;
-import ru.netology.page.PaymentPage;
+import ru.netology.web.data.DataHelper;
+import ru.netology.web.data.SqlHelper;
+import ru.netology.web.page.DashboardPage;
+import ru.netology.web.page.PaymentPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertEquals;
