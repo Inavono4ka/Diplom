@@ -26,6 +26,6 @@
 ### Отчет Allure
 ![allure-1](https://user-images.githubusercontent.com/106073843/200176479-d5e0f303-05e5-4e45-a7ca-a0feb11c0305.png)
 
-По багам в системе были заведены Issues, которые необходимо исправить.
+По багам в системе были заведены [Issues](https://github.com/Inavono4ka/Diplom/issues), которые необходимо исправить.
 
 
